@@ -1,0 +1,26 @@
+.container {
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+input {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+
+button {
+	padding: 10px 20px;
+	border: none;
+	background-color: #007bff;
+	color: #fff;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#greeting {
+	margin-top: 20px;
+	font-size: 24px;
+}
