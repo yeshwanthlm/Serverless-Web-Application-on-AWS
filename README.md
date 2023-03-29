@@ -1,4 +1,4 @@
-# Serverless-Web-Application-on-AWS
+# Serverless-Web-Application-on-AWS ![image](https://user-images.githubusercontent.com/66474973/228488944-d38ad42a-7a99-4bba-b0b4-92cd3160d7a7.png)
 
 ## Project Name: Serverless Web Application on AWS
 
