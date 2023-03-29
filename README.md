@@ -20,6 +20,15 @@ Upon completing the project, you will have a working serverless web application 
 
 This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
 
+Link to the documentation: https://docs.google.com/document/d/1FKIs7_yF0D98dHC1D-_pE494EiNF5xhP3s7YCRzw3B8/edit?usp=sharing
+
+
+Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos
+Follow our blog here: https://amonkincloud.com/
+Follow my personal blog here:https://dev.to/yeshwanthlm/
+Follow us on Instagram: https://www.instagram.com/amonkincloud/
+For queries write to us at: amonkincloud@gmail.com
+
 
 
 
