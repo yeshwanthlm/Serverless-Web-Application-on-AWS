@@ -33,24 +33,7 @@ Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
 Follow our blog here: https://amonkincloud.com/ \
 Follow my personal blog here:https://dev.to/yeshwanthlm/ \
 Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
-For queries write to us at: amonkincloud@gmail.com \
-
-## Implementation
-
-### Step-1: Setup S3 Bucket \
-
-Bucket Name: serverless-web-application-on-aws \
-Region: ap-south-1 \
-Note: Keep rest of the settings as default in console. \
-Upload the HTML, CSS and JavaScript files given in the GitHub Repo into the bucket \
-
-Congratulations! You have completed Step-1. \
-
-Step-2: Setup AWS CloudFront
-
-
-
-
+For queries write to us at: amonkincloud@gmail.com 
 
 
 
