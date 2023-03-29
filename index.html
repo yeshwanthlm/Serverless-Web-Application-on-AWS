@@ -5,14 +5,19 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<div class="container">
-		<h1>Welcome to my web application</h1>
-		<p>Please enter your name:</p>
-		<input type="text" id="name-input">
-		<button onclick="greet()">Greet</button>
+	<header>
+		<h1>Greeting App</h1>
+        <div class="counter-number">Views</div>
+	</header>
+	<main>
+		<form>
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name">
+			<button id="submit-btn">Submit</button>
+		</form>
 		<p id="greeting"></p>
-	</div>
-
+	</main>
 	<script src="script.js"></script>
 </body>
 </html>
+ 
