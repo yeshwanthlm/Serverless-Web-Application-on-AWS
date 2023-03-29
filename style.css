@@ -1,26 +1,40 @@
-.container {
-	max-width: 500px;
-	margin: 0 auto;
-	text-align: center;
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
 }
 
-input {
-	padding: 10px;
-	border: none;
+h1 {
+	margin: 0;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	margin-bottom: 10px;
+}
+
+input[type="text"] {
+	padding: 5px;
+	margin-bottom: 10px;
 	border-radius: 5px;
-	margin-right: 10px;
+	border: none;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 button {
-	padding: 10px 20px;
-	border: none;
-	background-color: #007bff;
+	padding: 5px 10px;
+	background-color: #333;
 	color: #fff;
+	border: none;
 	border-radius: 5px;
 	cursor: pointer;
 }
 
 #greeting {
 	margin-top: 20px;
-	font-size: 24px;
+	font-size: 1.2rem;
 }
